@@ -1,0 +1,3 @@
+[submodule "MilleniumSAT - Payload/Software"]
+	path = MilleniumSAT - Payload/Software
+	url = https://github.com/MilleniumSAT/stmillenium-32-firmware.git
